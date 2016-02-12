@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./delatinitatebhi02paucgoog_0001.png"; bbox 0 0 3409 5300; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 190 245 514 297">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 190 245 514 297">
+     <span class='ocr_line' id='line_1_1' title="bbox 190 245 514 297; baseline -0.009 0"><span class='ocrx_word' id='word_1_1' title='bbox 190 245 514 297; x_wconf 68' lang='grc' dir='ltr'><strong>ΠΕ-ΙΙΗιΡ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 186 301 954 497">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 186 301 954 497">
+     <span class='ocr_line' id='line_1_2' title="bbox 186 301 954 497; baseline 0.001 -3"><span class='ocrx_word' id='word_1_2' title='bbox 186 301 954 497; x_wconf 45' lang='lat' dir='ltr'><strong>wittimirum!*utillimum*mmmm</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 212 1222 678">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 212 1222 678">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 212 1222 678; baseline 0 4622"><span class='ocrx_word' id='word_1_3' title='bbox 0 212 1222 678; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 198 549 798 670">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 198 549 798 670">
+     <span class='ocr_line' id='line_1_4' title="bbox 198 549 798 670; baseline 0 -57"><span class='ocrx_word' id='word_1_4' title='bbox 198 549 306 613; x_wconf 62' lang='grc' dir='ltr'><strong>ΞΕ</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 382 549 550 670; x_wconf 62' lang='lat' dir='ltr'><strong>LO&amp;</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 630 549 798 613; x_wconf 59' lang='grc' dir='ltr'><strong>ΗΞῬ</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

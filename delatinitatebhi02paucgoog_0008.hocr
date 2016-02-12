@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./delatinitatebhi02paucgoog_0008.png"; bbox 0 0 3409 5300; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1236 4656 2267 4713">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1236 4656 2267 4713">
+     <span class='ocr_line' id='line_1_1' title="bbox 1236 4656 2267 4713; baseline -0.006 -10"><span class='ocrx_word' id='word_1_1' title='bbox 1236 4660 1448 4703; x_wconf 67' lang='lat' dir='ltr'><strong>Revsuno.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1505 4660 1634 4713; x_wconf 59' lang='lat' dir='ltr'>&#39;rnna</span> <span class='ocrx_word' id='word_1_3' title='bbox 1662 4658 1893 4711; x_wconf 70' lang='lat' dir='ltr'><strong>descripsit</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1917 4658 1961 4701; x_wconf 86' lang='lat' dir='ltr'><strong>J.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1991 4658 2045 4699; x_wconf 81' lang='grc' dir='ltr'><strong>Η.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 2079 4658 2115 4699; x_wconf 86' lang='lat' dir='ltr'>G</span> <span class='ocrx_word' id='word_1_7' title='bbox 2140 4656 2267 4699; x_wconf 70' lang='lat' dir='ltr'>estol.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
